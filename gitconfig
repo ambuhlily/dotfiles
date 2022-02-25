@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alichappy@gmail.com
+	name = Amber Chapman
